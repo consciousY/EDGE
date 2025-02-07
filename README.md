@@ -1,2 +1,6 @@
 # EDGE
-This is a project about Digital Skills for Student
+Digital Skills for Student
+
+Batch No : NUCSEP | 03
+
+Sayed Mahmud Robin
