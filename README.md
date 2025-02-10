@@ -1,6 +1,6 @@
 # EDGE
 Digital Skills for Student
 
-Batch No : JNUCSEP | 03
+Batch No : JNUCSEP I 03
 
 Sayed Mahmud Robin
